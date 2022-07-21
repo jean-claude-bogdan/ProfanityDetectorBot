@@ -8,8 +8,8 @@
         "telegram-bot",
         "profanity-detector"
     ],
-    "repository": "https://github.com/xditya/ProfanityDetectorBot",
-    "website": "xditya.me",
+    "repository": "https://github.com/jean-claude-bogdan/ProfanityDetectorBot/",
+    "website": "tobygrets.com.ua",
     "success_url": "https://t.me/BotzHub",
     "env": {
         "BOT_TOKEN": {
