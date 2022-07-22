@@ -88,6 +88,7 @@ async def start_msg(event):
                     url=f"http://t.me/{(await bot.get_me()).username}?startgroup=botstart",
                 )
             ],
+        ],
     )
 
 
