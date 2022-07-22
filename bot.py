@@ -94,7 +94,6 @@ async def start_msg(event):
                 Button.url(
                     "Package 📦", url="https://pypi.org/project/ProfanityDetector/"
                 ),
-            ],
         ],
     )
 
