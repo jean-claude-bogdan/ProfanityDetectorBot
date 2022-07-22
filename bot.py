@@ -88,12 +88,6 @@ async def start_msg(event):
                     url=f"http://t.me/{(await bot.get_me()).username}?startgroup=botstart",
                 )
             ],
-            [
-                Button.url("📥 Channel", url="https://t.me/BotzHub"),
-                Button.url(
-                    "Package 📦", url="https://pypi.org/project/ProfanityDetector/"
-                ),
-        ],
     )
 
 
